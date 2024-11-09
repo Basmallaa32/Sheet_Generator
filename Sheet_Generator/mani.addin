@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Sheet_Generator</Name>
+		<FullClassName>Sheet_Generator.RevUi</FullClassName>
+		<Text>Sheet_Generator</Text>
+		<Description>Created by Yousef Altear and Basmalla Ahmed</Description>
+		<VisibilityMode>AlwaysVisible </VisibilityMode>
+		<Assembly>Sheet_Generator.dll</Assembly>
+		<AddInId>B214B4F3-5A00-4A09-BF1F-696A9534DD19</AddInId>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Yousef Altear or Basmalla Ahmed</VendorDescription>
+	</AddIn>
+
+
+
+</RevitAddIns>
+
+
