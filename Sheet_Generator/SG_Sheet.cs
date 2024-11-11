@@ -30,7 +30,7 @@ namespace Sheet_Generator
 
 
 
-                    var TitleBlock = TitleBLock as Element;
+                    var TitleBlock = TitleBLock as Element; 
                     var views = ViewList.ToList();
                     var sheetName = SheetName;
                     var sheetnumStr = SheetNum;
